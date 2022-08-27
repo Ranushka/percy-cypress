@@ -150,7 +150,7 @@
     fast-glob "^3.2.11"
     image-size "^1.0.0"
 
-"@percy/cli@^1.7.2":
+"@percy/cli@^1.10.0":
   version "1.10.0"
   resolved "https://registry.yarnpkg.com/@percy/cli/-/cli-1.10.0.tgz#fbeeadc7b8baeadf637e3ac30ea65df3b2b60b2f"
   integrity sha512-t/2vKCQ8bV5Rrut4lR1/xtM8UnZv5aa45XYZ0ZzGR6tDQsN+GOmgiH9stFiMp6xHaj/iVHpgAngBL8Ksm/ynGg==
